@@ -3,6 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_margin="10dp"
+    android:background="#CDC6AE"
     android:orientation="vertical">
 
     <LinearLayout
@@ -28,6 +29,7 @@
             android:layout_weight="1"
             android:gravity="center_horizontal|center_vertical"
             android:text="@string/operacion"
+            android:textColor="#FFFFFF"
             android:textSize="36sp"
             android:textStyle="bold" />
 
@@ -38,6 +40,7 @@
             android:layout_weight="1"
             android:gravity="center|center_horizontal|center_vertical"
             android:inputType="number"
+            android:textColor="#FFFFFF"
             android:textSize="36sp" />
 
     </LinearLayout>
