@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Certamen</string>
     <string name="operacion">?</string>
+    <string name="suma">+</string>
     <string name="generar">GENERAR NUMEROS</string>
     <string name="par">¿RESULTADO ES PAR?</string>
     <string name="primo">¿RESULTADO ES PRIMO?</string>
